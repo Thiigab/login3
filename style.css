@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+html {
+    background-color: #F7F7F8;
+}
+
+div {
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    width: 400px;
+}
